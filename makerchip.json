@@ -1,0 +1,14 @@
+ 
+{ "frog-maze": {
+    "root": ".",
+    "thumb": "makerchip/thumb.png",
+    "desc": "Backtracking maze solver.",
+    "details": "<b>demo demo/b>",
+    "docs": "makerchip/README.md",
+    "src": "src/frog_viz.tlv"
+    },
+    "implementations": {
+    }
+  },
+
+}
