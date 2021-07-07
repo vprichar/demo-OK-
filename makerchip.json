@@ -1,5 +1,5 @@
  
-{ "frog-maze": {
+{ "demo ricardo": {
     "root": ".",
     "thumb": "makerchip/thumb.png",
     "desc": "Backtracking maze solver.",
