@@ -1,2 +1,2 @@
  
-# Backtracking maze solver
+# MI demo
