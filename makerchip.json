@@ -2,6 +2,7 @@
 { "demo ricardo": {
     "root": ".",
     "thumb": "makerchip/thumb.png",
+    "idMakerchip": "0gJflh6Xl/0LghNDA",
     "desc": "Backtracking maze solver.",
     "details": "<b>demo demo1</b>",
     "docs": "makerchip/README.md",
